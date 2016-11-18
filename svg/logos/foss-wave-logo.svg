@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="278.19049mm"
+   height="149.75806mm"
+   viewBox="0 0 985.71434 530.63878"
+   id="svg3376"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="final_logo.svg">
+  <defs
+     id="defs3378">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15932"
+       id="radialGradient15938"
+       cx="1546.941"
+       cy="803.41638"
+       fx="1546.941"
+       fy="803.41638"
+       r="397.66013"
+       gradientTransform="matrix(-0.14115744,-0.83639688,1.8131029,-0.30598769,-900.93557,2299.71)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient15932">
+      <stop
+         style="stop-color:#aeeaff;stop-opacity:1;"
+         offset="0"
+         id="stop15934" />
+      <stop
+         style="stop-color:#aeeaff;stop-opacity:0;"
+         offset="1"
+         id="stop15936" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="313.57143"
+     inkscape:cy="496.748"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3381">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(298.57143,-498.47139)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#008ba9;fill-opacity:1"
+       d="m -298.57143,1028.8824 c 0,0 78.99731,-177.28961 101.64054,-214.63645 82.05707,-129.73646 190.816048,-238.56089 327.55995,-285.19513 169.2293,-47.88482 325.02232,-37.7774 453.30534,23.78903 47.62518,23.49972 76.83022,50.2388 94.62069,86.63058 31.70214,84.85975 -40.75288,128.21757 -117.60301,83.27009 -64.32623,86.20179 -142.7465,54.37249 -157.71073,-1.69149 -160.14614,82.57062 -23.26325,219.247 97.96245,269.49004 19.76367,9.70983 71.56877,38.57113 71.56877,38.57113 z"
+       id="path15890" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:156.75744629px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text8881-6"
+       sodipodi:linespacing="125%"
+       y="961.41364"
+       x="-180.17461"><tspan
+         sodipodi:role="line"
+         x="-180.17461"
+         y="961.41364"
+         id="tspan8885-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.97340393px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#ffffff;fill-opacity:1"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1"
+   id="tspan8947-3">FOSS</tspan>WAVE</tspan></text>
+    <path
+       style="fill:url(#radialGradient15938);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 55.816698,560.39515 C 328.5041,438.1105 555.1752,523.6768 645.52568,589.04001 746.11959,703.063 642.95454,774.55912 561.48447,720.24429 501.21721,798.32154 424.08191,783.70685 401.83602,719.71398 299.9312,796.72567 262.67396,778.78379 197.37729,734.61729 124.60506,802.76159 80.78208,796.66928 20.401562,723.19956 -19.953186,665.9203 -58.133645,700.02532 -154.62521,752.16054 -100.60029,693.34169 -57.316488,626.3354 55.816698,560.39555 Z"
+       id="path15909"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>
